@@ -1,7 +1,7 @@
 Flask==3.0.0
 flask_cors==4.0.0
 gunicorn==21.2.0
-langchain==0.1.16
+langchain==0.1.4
 langchain-community==0.0.32
 langchain-google-genai==0.1.1
 pypdf==4.1.0
